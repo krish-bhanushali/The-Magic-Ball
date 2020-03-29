@@ -1,6 +1,6 @@
 # Magic-ball app
 
-A simple magic ball that answers our questions . For Eg : Will I get a burger anytime soon?
+A simple magic ball with a light theme that answers our questions . For Eg : Will I get a burger anytime soon?
 
 # Introduction
 This is app based on similar principle of the dice app
@@ -10,6 +10,9 @@ This is app based on similar principle of the dice app
 * The problem I faced here were:
 - Not able to add icons (if someone can help it shows : Preview rendoring image as x is beyond raster. when I create an Image asset
 - By mistake I added the files for andriod development that is java files there werent required, I will update the project or make it from scratch
+
+# Visual
+![](images/Screenshot_1585465178.png)
 
 
 ## Getting Started
